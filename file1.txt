@@ -1,3 +1,5 @@
 hero section is make
 
 hero section is navbar is make
+
+hero is make
