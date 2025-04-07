@@ -7,3 +7,6 @@ hero is make
 
 
 navbar is make
+
+
+footer  is make
