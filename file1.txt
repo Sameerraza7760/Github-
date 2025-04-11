@@ -4,18 +4,16 @@ hero section is navbar is make
 
 hero is make
 
-
-
 navbar is make
-
 
 footer  is make
 
-
 another section is make
 
+another section is makes
 
 another section is makes
 
 
-another section B is makes
+
+another B section is makes
